@@ -15,9 +15,9 @@ You can follow the steps to test the extension by yourself:
 
 ## SCREENSHOTS
 
-Here are some photos of the extension:
-![screenshot 1](/Demo/Screenshot%202024-01-26%20233807.png)
-![screenshot 2](/Demo/Screenshot%202024-01-26%20234001.png)
+Here are some photos of the extension:  
+![screenshot 1](/Demo/Screenshot%202024-01-26%20233807.png)  
+![screenshot 2](/Demo/Screenshot%202024-01-26%20234001.png)  
 ![screenshot 3](/Demo/Screenshot%202024-01-26%20234042.png)
 
 ---
